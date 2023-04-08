@@ -1,4 +1,4 @@
-//summation of n number and salary calculation
+//summation of numbers and salary calculation
 
 package arraySummation;
 import java.util.Scanner;
